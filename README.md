@@ -21,9 +21,11 @@ sudo apt-get install build-essential checkinstall git curl -y
 Using MAC OS X?  Try Macports or homebrew.
 
 ## Global Install
+```
 curl -L https://raw.githubusercontent.com/MattMcFarland/nodejs-installer/0.12.1/global.sh | bash
-
+```
 ## Private Install
+```
 curl -L https://raw.githubusercontent.com/MattMcFarland/nodejs-installer/0.12.1/private.sh | bash
-
+```
 > Private will add path vars to .bashrc, you may need to change this manually.
