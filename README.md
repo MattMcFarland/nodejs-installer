@@ -1,5 +1,7 @@
 # nodejs-installer
-Rapid NodeJS Installer
+Rapid NodeJS Installer.
+
+This script automatically downloads, then compiles nodejs version 0.12.1.
 
 ## Make sure compiling tools are installed 
 
