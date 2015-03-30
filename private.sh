@@ -19,9 +19,8 @@ echo export PATH=$PATH:~/.local/bin >> ~/.bashrc
 echo export PATH=$PATH:~/.local/lib/bin >> ~/.bashrc
 source $HOME/.bashrc
 
-npm install express grunt grunt-cli bower -g
 chmod -R 700 $HOME/.local
 
-echo Node JS
+echo Node JS Installed
 node -v
 npm -v
